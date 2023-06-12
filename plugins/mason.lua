@@ -15,6 +15,7 @@ return {
         "texlab",
         "marksman",
         "rust_analyzer",
+        "gradle_ls",
       })
     end,
   },
